@@ -7,7 +7,7 @@ This is a demonstration of 3D Animation of DNA created using Blender and Python 
 
 Beyond the general Python experience it was fun to see how a process such as model creation could be automated in Blender. Since the Blender/Python script reads in an external data file to create the model of the DNA molecule it's easy to change the molecule being created simply by pointing the script to another external data file.
 
-- [**See the animation of DNA**](http://glydeck.com/DNA/DNA.html)
+- [**See the Blender animation of DNA**](http://glydeck.com/DNA/DNA.html)
 
 ### Sample Rendered in Blender
 
